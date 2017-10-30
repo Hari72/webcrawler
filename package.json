@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "A Web crawler that scrapes medium.com using Node.js with async library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "async",
+    "web",
+    "crawler"
+  ],
+  "author": "Hariharan S",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "nodemon": "^1.12.1",
+    "request": "^2.83.0"
+  }
+}
